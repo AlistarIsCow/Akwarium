@@ -1,0 +1,9 @@
+﻿  FishProgram.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\FishProgram.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  main_file.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(22,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  model.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  shaderprogram.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\shaderprogram.h(25,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  Generowanie kodu...

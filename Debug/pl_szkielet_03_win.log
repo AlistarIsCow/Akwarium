@@ -1,0 +1,66 @@
+﻿  FishProgram.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\FishProgram.cpp(42,13): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\FishProgram.cpp(88,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  lodepng.cpp
+  main_file.cpp
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish1.h(1273,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish1.h(3797,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish1.h(5059,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish1.h(6321,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish2.h(1404,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish2.h(4192,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish2.h(5586,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish2.h(6980,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish3.h(99228,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish3.h(297664,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish3.h(396882,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish3.h(496100,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish4.h(1755,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish4.h(5245,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish4.h(6990,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish4.h(8735,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish5.h(2196,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish5.h(6567,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish5.h(8753,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish5.h(10939,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish6.h(1956,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish6.h(5848,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish6.h(7794,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish6.h(9740,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish7.h(2184,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish7.h(6532,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish7.h(8706,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish7.h(10880,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish8.h(1548,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish8.h(4624,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish8.h(6162,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish8.h(7700,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish9.h(1776,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish9.h(5308,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish9.h(7074,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish9.h(8840,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish10.h(1884,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish10.h(5632,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish10.h(7506,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Fish10.h(9380,15): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaShell0.h(54246,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaShell0.h(162718,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaShell0.h(216954,34): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaShell0.h(271190,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed1.h(1104,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed1.h(3292,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed1.h(4386,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed2.h(984,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed2.h(2932,31): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed2.h(3906,35): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\SeaWeed2.h(4880,13): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(46,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(47,21): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(759,38): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(767,38): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(773,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\main_file.cpp(774,35): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  model.cpp
+  shaderprogram.cpp
+  Generowanie kodu...
+  pl_szkielet_03_win.vcxproj -> C:\Users\kapi1\Desktop\Studia\S4\Grafika komputerowa i wizualizacja\gkiw_145430_145210\Debug\pl_szkielet_03_win.exe
